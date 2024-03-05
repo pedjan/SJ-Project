@@ -1,0 +1,12 @@
+Hleb|2|600|Pecivo|01/11/21
+Pavlaka|3|180|Mlecni proizvod|01/11/21
+Hleb|2|600|Pecivo|01/12/21
+Mleko|1|300|Mlecni proizvod|01/12/21
+Hleb|1|300|Pecivo|01/20/21
+Pavlaka|1|60|Mlecni proizvod|01/20/21
+Mleko|3|900|Mlecni proizvod|01/23/21
+Pepsi|1|100|Pice|01/23/21
+Hleb|1|300|Pecivo|01/23/21
+Hleb|1|300|Pecivo|01/23/21
+Sir|2|200|Mlecni proizvod|01/24/21
+Pepsi|1|100|Pice|01/24/21

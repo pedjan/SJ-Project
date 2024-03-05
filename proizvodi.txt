@@ -1,0 +1,8 @@
+PI4|Bravo|Pice|200|120
+PI3|Fanta|Pice|199|130
+PE1|Hleb|Pecivo|196|40
+MP1|Mleko|Mlecni proizvod|193|300
+MP3|Pavlaka|Mlecni proizvod|198|60
+PI2|Pepsi|Pice|197|100
+MP2|Sir|Mlecni proizvod|202|100
+PI1|Voda|Pice|197|60
